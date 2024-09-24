@@ -1,3 +1,4 @@
+
 # Node.js-work
 1. Classes
 
@@ -30,3 +31,9 @@ In Node.js, destructuring is a way to extract values from arrays or objects and 
 5. the cube of any number was just to multiply all the numbers by the given side which will be multiplied three times.
 
 6. to create a function that gives the area of a rectangle you must get what length is and breath and then multiply it together to get the area of the rectangle which is L X B.
+
+7.    Variable Method
+Variable method is broken down into three main parts which are cost, let and var
+
+8.    Modules
+modules in node.js 
